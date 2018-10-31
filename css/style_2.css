@@ -65,7 +65,7 @@ h1{
 }
 .background image{
     width: 100%;
-    display: block;
+    display: inline-block;
 }
 footer{
     background-color: black;
